@@ -1,5 +1,5 @@
-Responsive Website Example
- 📌 Task
+## Responsive Website Example
+# 📌 Task
 This project is created as part of **Task 4: Make a Website Mobile-Friendly Using CSS Media Queries**.
 
 The objective is to convert a desktop-only page into a **mobile-friendly layout** using **CSS media queries**.
@@ -46,19 +46,9 @@ The objective is to convert a desktop-only page into a **mobile-friendly layout*
 
 ---
 
-## 🖼 Screenshot (Example)
-Desktop Layout:
-
-
----
-
 ## 📌 Future Improvements
 - Add a **hamburger menu** for navigation on mobile.
 - Use **CSS Grid** for more advanced responsive design.
 - Add animations for smooth transitions.
 
 ---
-
-## 👨‍💻 Author
-Built by **[Your Name]** as part of responsive design practice.
-
